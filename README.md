@@ -128,6 +128,4 @@ This project is licensed under the MIT License
 
 Thank you for exploring the **License Plate Recognition System**! For issues or questions, feel free to drop a mail 📩 
 
---- 
 
-This README provides clarity and invites contributions while showcasing the application's key features and structure.
