@@ -9,6 +9,8 @@ A robust web-based application designed to recognize license plates from uploade
 
 - **Image Upload**: Upload images containing license plates for recognition.
 - **License Plate Detection**: Automatically detects and extracts license plate text and confidence level.
+
+## Future features 😎
 - **Dashboard**: Track key metrics like total vehicles, revenue, and apply month-wise filters.
 - **User Authentication**: Secure login for access to restricted sections.
 - **Data Visualization**: View car entry trends and revenue statistics via interactive charts.
